@@ -1,0 +1,1 @@
+﻿Criacional - Prototype: permite você criar novas instancias simplesmente copiando instancias existentes;

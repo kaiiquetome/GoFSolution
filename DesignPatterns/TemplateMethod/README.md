@@ -1,0 +1,1 @@
+﻿Comportamental - Template Method: As subclasses decidem como implementar os passos de um algoritimo;

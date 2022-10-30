@@ -1,0 +1,1 @@
+﻿Estruturais - Composite: Os clientes tratam as coleções de objetos e os objetos individuais de maneira uniforme;

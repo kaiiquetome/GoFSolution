@@ -1,0 +1,1 @@
+﻿Comportamental - Mediator: centraliza operações complexas de comunicação e controle entre objetos relacionados;

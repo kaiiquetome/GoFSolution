@@ -1,0 +1,1 @@
+﻿Comportamental - Interpreter: permite construir um intérprete para uma linguagem;

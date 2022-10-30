@@ -1,0 +1,1 @@
+﻿Comportamental - Memento: permite restaurar um objeto a um dos seus estados prévios, por exemplo, quando o usuário seleciona um “desfazer”;

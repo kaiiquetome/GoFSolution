@@ -1,0 +1,1 @@
+﻿Estruturais - Adapter: envelopa um objeto e fornece a ele uma interface diferente;

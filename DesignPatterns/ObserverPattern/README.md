@@ -1,0 +1,1 @@
+﻿Comportamental - Observer: permite notificar outros objetos quando ocorre uma mudança de estado.

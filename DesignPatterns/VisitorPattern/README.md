@@ -1,0 +1,1 @@
+﻿Comportamental - Visitor: permite acrescentar novos recursos a um composto de objetos e o encapsulamento não é importante;

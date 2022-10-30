@@ -1,0 +1,1 @@
+﻿Estruturais - Decorator: envelopa um objeto para fornecer novos comportamentos;

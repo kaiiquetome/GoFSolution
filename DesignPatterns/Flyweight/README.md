@@ -1,0 +1,1 @@
+﻿Estruturais - FlyWeigth: uma instancia de uma classe pode ser usada para fornecer muitas “instancias virtuais”;

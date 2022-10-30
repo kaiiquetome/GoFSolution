@@ -1,0 +1,1 @@
+﻿Criacional - Factory Mathod: as subclasses decidem quais classes concretas serão criadas.

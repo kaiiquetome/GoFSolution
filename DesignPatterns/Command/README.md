@@ -1,0 +1,1 @@
+﻿Comportamental - Command: encapsula uma solicitação como um objeto;

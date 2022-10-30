@@ -1,0 +1,1 @@
+﻿Comportamental - State: encapsula comportamentos baseados em estados e usa a delegação para alternar comportamentos;

@@ -1,0 +1,1 @@
+﻿Comportamental - Chair of Responsability: permite dar a mais de um objeto a oportunidade de processar uma solicitação;

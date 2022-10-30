@@ -1,0 +1,1 @@
+﻿Estruturais - Facade: simplifica a interface de um conjunto de classes;

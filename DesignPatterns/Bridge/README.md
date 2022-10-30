@@ -1,0 +1,1 @@
+﻿Estruturais - Bridge: permite criar uma ponte para variar não apenas a sua implementação, como também as suas abstrações;

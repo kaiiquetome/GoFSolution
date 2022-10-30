@@ -1,0 +1,1 @@
+﻿Estruturais - Proxy: envelopa um objeto para controlar o acesso a ele;

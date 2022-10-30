@@ -1,0 +1,1 @@
+﻿Builder: encapsular a construção de um produto e permitir que ele seja construído em etapas;

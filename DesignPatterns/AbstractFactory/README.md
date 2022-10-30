@@ -1,0 +1,1 @@
+﻿Criacional - Abstract Factory: permite que um cliente crie famílias de objetos sem especificar suas classes concretas;

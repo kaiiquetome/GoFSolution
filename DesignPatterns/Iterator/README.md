@@ -1,0 +1,1 @@
+﻿Comportamental - Iterator: fornece uma maneira de acessar seqüencialmente uma coleção de objetos sem expor a sua implementação;
