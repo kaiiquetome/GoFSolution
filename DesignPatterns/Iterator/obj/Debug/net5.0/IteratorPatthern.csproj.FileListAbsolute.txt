@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\DesignPatternsSolution\Iterator\obj\Debug\net5.0\IteratorPatthern.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DesignPatternsSolution\Iterator\obj\Debug\net5.0\IteratorPatthern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DesignPatternsSolution\Iterator\obj\Debug\net5.0\IteratorPatthern.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DesignPatternsSolution\Iterator\obj\Debug\net5.0\IteratorPatthern.AssemblyInfo.cs
+C:\Users\User\source\repos\DesignPatternsSolution\Iterator\obj\Debug\net5.0\IteratorPatthern.csproj.CoreCompileInputs.cache
